@@ -48,7 +48,7 @@ echo $jti->profile_image_url();//URL to your twitter profile picture.<br />
 
 Note: No methods will return any data with html markup. <br />
 
-For more support and examples please visit <a href="http://www.jimblogger.com/projects">my project page.</a>
+For more support and examples please visit <a href="http://www.jimblogger.com/projects">my projects page.</a>
 
 == Upgrade Notice == 
 N/A
