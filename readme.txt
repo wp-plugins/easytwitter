@@ -1,16 +1,15 @@
 === EasyTwitter ===
 Contributors: jimburnettva
-Donate link: http://www.jimblogger.com/projects
+Donate link: http://www.examplecode.org/
 Tags: twitter,development,programming,php
 Requires at least: 3.0
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 EasyTwitter provides an easy way to add twitter followers count and other twitter info to your wordpress template.
 
 == Description ==
 
-For more information please visit my projects page at <a href="http://www.jimblogger.com/projects">http://www.jimblogger.com/projects</a>
 
 EasyTwitter provides an easy way to add your twitter information to your wordpress blog. 
 
@@ -24,7 +23,7 @@ EasyTwitter provides an easy way to add your twitter information to your wordpre
 * Show Twitter name and profile name.<br />
 * Show Twitter profile url.<br />
 
-Developed by: <a href="http://www.jimblogger.com">Jim Blogger</a>
+Developed by: <a href="http://www.examplecode.org">Example Code</a>.org.
 
 
 == Installation ==
@@ -48,7 +47,6 @@ echo $jti->profile_image_url();//URL to your twitter profile picture.<br />
 
 Note: No methods will return any data with html markup. <br />
 
-For more support and examples please visit <a href="http://www.jimblogger.com/projects">my projects page.</a>
 
 == Upgrade Notice == 
 N/A
@@ -70,6 +68,9 @@ None.
 = 1.0 =
 * Initial release.
 
+
+= 1.1 =
+Fixed a typo.
 
 == A brief Markdown Example ==
 
