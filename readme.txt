@@ -22,6 +22,7 @@ EasyTwitter provides an easy way to add your twitter information to your wordpre
 * Show you recent twitter status message.<br />
 * Show Twitter name and profile name.<br />
 * Show Twitter profile url.<br />
+* Show retweet count!. <br />
 
 Developed by: <a href="http://www.examplecode.org">Example Code</a>.org.
 
@@ -71,6 +72,7 @@ None.
 
 = 1.1 =
 Fixed a typo.
+Add retweet_count.
 
 == A brief Markdown Example ==
 

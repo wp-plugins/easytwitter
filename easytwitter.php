@@ -3,9 +3,9 @@
 Plugin Name: EasyTwitter
 Plugin URI: http://www.jimblogger.com/projects
 Description: Provides a super easy way to add twitter information to your blog. No javascript needed.
-Version: 1.2
+Version: 1.1
 Author: Jim Burnett
-Author URI: http://www.jimblogger.com/
+Author URI: http://www.examplecode.org
 License: GPL2
 */
 
@@ -34,6 +34,9 @@ echo $this->profile_image_url();
 echo $this->location();
 }
 
+public function retweet_count(){
+	return $this->results->{'retweet_count'};
+}
 
 public function name(){
 	return $this->results->{'name'};
