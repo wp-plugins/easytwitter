@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: EasyTwitter
-Plugin URI: http://www.jimblogger.com/projects
+Plugin URI: http://www.examplecode.org
 Description: Provides a super easy way to add twitter information to your blog. No javascript needed.
-Version: 1.1
+Version: 1.3
 Author: Jim Burnett
 Author URI: http://www.examplecode.org
 License: GPL2

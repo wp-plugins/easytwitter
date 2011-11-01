@@ -4,7 +4,7 @@ Donate link: http://www.examplecode.org/
 Tags: twitter,development,programming,php
 Requires at least: 3.0
 Tested up to: 3.2.1
-Stable tag: 1.1
+Stable tag: 1.3
 
 EasyTwitter provides an easy way to add twitter followers count and other twitter info to your wordpress template.
 
@@ -71,6 +71,10 @@ None.
 
 
 = 1.1 =
+
+= 1.2 =
+
+= 1.3 =
 Fixed a typo.
 Add retweet_count.
 
