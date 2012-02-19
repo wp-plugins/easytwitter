@@ -1,14 +1,19 @@
 <?php
 /*
 Plugin Name: EasyTwitter
-Plugin URI: http://www.examplecode.org
+Plugin URI: http://www.jimblogger.com/projects/easytwitter
 Description: Provides a super easy way to add twitter information to your blog. No javascript needed.
-Version: 1.3
-Author: Jim Burnett
-Author URI: http://www.examplecode.org
+Version: 1.4
+Author: Jim Blogger
+Author URI: http://www.jimblogger.com
 License: GPL2
 */
 
+function getFollowerCount($twitter_user)
+{
+ $et = new EasyTwitter($twitter_user);
+ return $et->followers_count();
+}
 
 class EasyTwitter
 {
@@ -77,3 +82,4 @@ public function location(){
 }
 
 ?>
+

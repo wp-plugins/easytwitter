@@ -1,10 +1,10 @@
 === EasyTwitter ===
 Contributors: jimburnettva
-Donate link: http://www.examplecode.org/
-Tags: twitter,development,programming,php
+Donate link: http://www.jimblogger.com/donate
+Tags: twitter,development,programming,php,twitter followers
 Requires at least: 3.0
 Tested up to: 3.2.1
-Stable tag: 1.3
+Stable tag: 1.4
 
 EasyTwitter provides an easy way to add twitter followers count and other twitter info to your wordpress template.
 
@@ -24,7 +24,9 @@ EasyTwitter provides an easy way to add your twitter information to your wordpre
 * Show Twitter profile url.<br />
 * Show retweet count!. <br />
 
-Developed by: <a href="http://www.examplecode.org">Example Code</a>.org.
+<a href="http://www.jimblogger.com/projects/easytwitter">Get support here.</a>
+
+Developed by: <a href="http://www.jimblogger.com">Jim Blogger</a>.
 
 
 == Installation ==
@@ -35,15 +37,15 @@ Developed by: <a href="http://www.examplecode.org">Example Code</a>.org.
 
 
 <b>Step 1:</b><br />
-$jti = new EasyTwitter("twitterusername");//place this at the top of your template.<br />
+$et = new EasyTwitter("twitterusername");//place this at the top of your template.<br />
 <br /><br />
 
 <b>Step 2:</b><br />
-echo $jti->followers_count(); // Your twitter followers.<br />
-echo $jti->profile_image_url();//This returns your profile image URL with no html markup. <br />
-echo $jti->location(); //This will show your location field. e.g. "Virginia".<br />
-echo $jti->status_text(); //Your most recent twitter status text.<br />
-echo $jti->profile_image_url();//URL to your twitter profile picture.<br />
+echo $et->followers_count(); // Your twitter followers.<br />
+echo $et->profile_image_url();//This returns your profile image URL with no html markup. <br />
+echo $et->location(); //This will show your location field. e.g. "Virginia".<br />
+echo $et->status_text(); //Your most recent twitter status text.<br />
+echo $et->profile_image_url();//URL to your twitter profile picture.<br />
 
 
 Note: No methods will return any data with html markup. <br />
