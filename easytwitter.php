@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: EasyTwitter
-Plugin URI: http://www.jimblogger.com/projects/easytwitter
-Description: Provides a super easy way to add twitter information to your blog. No javascript needed.
-Version: 1.4
-Author: Jim Blogger
-Author URI: http://www.jimblogger.com
+Plugin URI: http://www.noobcakereviews.com/
+Description: Provides a super easy way to add twitter information to your blog. No javascript needed. I needed a way to add twitter info to my wordpress templates so I wrote this.
+Version: 1.5
+Author: Noobcake Supreme 
+Author URI: http://www.noobcakereviews.com/supreme
 License: GPL2
 */
 
@@ -20,7 +20,6 @@ class EasyTwitter
 
 private $api_call;
 private $results;
- //print_r($results,false);
 
 
 function EasyTwitter($username){
@@ -30,6 +29,7 @@ function EasyTwitter($username){
 
 public function debug(){
 echo $this->name();
+echo $this->time_zone();
 echo $this->url();
 echo $this->status_text();
 echo $this->friends_count();
@@ -39,6 +39,9 @@ echo $this->profile_image_url();
 echo $this->location();
 }
 
+public function time_zone(){
+	return $this->results->{'time_zone'};
+}
 public function retweet_count(){
 	return $this->results->{'retweet_count'};
 }
@@ -82,4 +85,3 @@ public function location(){
 }
 
 ?>
-
