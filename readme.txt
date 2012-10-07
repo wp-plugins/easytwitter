@@ -1,10 +1,10 @@
 === EasyTwitter ===
 Contributors: jimburnettva
-Donate link: http://www.noobcakereviews.com/supreme
+Donate link: http://www.jimmyburnett.com
 Tags: twitter,development,programming,php,twitter followers
 Requires at least: 3.0
-Tested up to: 3.2.1
-Stable tag: 1.5
+Tested up to: 3.4.2
+Stable tag: 1.6
 
 EasyTwitter provides an easy way to add twitter followers count and other twitter info to your wordpress template.
 
@@ -25,7 +25,7 @@ EasyTwitter provides an easy way to add your twitter information to your wordpre
 * Show Twitter profile url.<br />
 * Show retweet count!. <br />
 
-Developed by: <a href="http://www.noobcakereviews.com" title="noobcake reviews">Noobcake Reviews</a>.
+Developed by: <a href="http://www.jimmyburnett.com" title="jimmy burnett">Jimmy Burnett</a>.
 
 
 == Installation ==
@@ -83,6 +83,9 @@ Fixed glitch.
 
 = 1.5 =
 Added timezone
+
+= 1.6 =
+Tested with 3.4.2 wordpress.
 
 == A brief Markdown Example ==
 
