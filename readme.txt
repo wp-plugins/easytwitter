@@ -1,10 +1,10 @@
 === EasyTwitter ===
-Contributors: jimburnettva
-Donate link: http://www.jimmyburnett.com
+Contributors: jimburnettva,theunihacker
+Donate link: http://www.universalhacker.com
 Tags: twitter,development,programming,php,twitter followers
 Requires at least: 3.0
-Tested up to: 3.4.2
-Stable tag: 1.6
+Tested up to: 3.5.0
+Stable tag: 1.7
 
 EasyTwitter provides an easy way to add twitter followers count and other twitter info to your wordpress template.
 
@@ -25,7 +25,7 @@ EasyTwitter provides an easy way to add your twitter information to your wordpre
 * Show Twitter profile url.<br />
 * Show retweet count!. <br />
 
-Developed by: <a href="http://www.jimmyburnett.com" title="jimmy burnett">Jimmy Burnett</a>.
+Developed by: The <a href="http://www.universalhacker.com" title="Universal Hacker">Universal Hacker</a>.
 
 
 == Installation ==

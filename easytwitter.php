@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: EasyTwitter
-Plugin URI: http://www.jimmyburnett.com
+Plugin URI: http://www.universalhacker.com/projects/easytwitter 
 Description: Provides a super easy way to add twitter information to your blog. No javascript needed. I needed a way to add twitter info to my wordpress templates so I wrote this.
-Version: 1.6
-Author: Jimmy Burnett 
-Author URI: http://www.jimmyburnett.com
+Version: 1.7
+Author: Universal Hacker 
+Author URI: http://www.universalhacker.com
 License: GPL2
 */
 
