@@ -87,6 +87,11 @@ Added timezone
 = 1.6 =
 Tested with 3.4.2 wordpress.
 
+= 1.7 =
+Tested with 3.5.x wordpress.
+Fix documentation.
+Updated documentation.
+
 == A brief Markdown Example ==
 
 N/A
