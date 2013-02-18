@@ -1,10 +1,10 @@
 === EasyTwitter ===
-Contributors: jimburnettva,theunihacker
-Donate link: http://www.universalhacker.com
+Contributors: jimburnettva,yourtechieguyblog
+Donate link: http://www.yourtechieguy.com
 Tags: twitter,development,programming,php,twitter followers
 Requires at least: 3.0
-Tested up to: 3.5.0
-Stable tag: 1.7
+Tested up to: 3.5.1
+Stable tag: 1.8
 
 EasyTwitter provides an easy way to add twitter followers count and other twitter info to your wordpress template.
 
@@ -25,7 +25,7 @@ EasyTwitter provides an easy way to add your twitter information to your wordpre
 * Show Twitter profile url.<br />
 * Show retweet count!. <br />
 
-Developed by: The <a href="http://www.universalhacker.com" title="Universal Hacker">Universal Hacker</a>.
+Developed by: The <a href="http://www.yourtechieguy.com/" title="Your Techei Guy">Your Techie Guy</a>.
 
 
 == Installation ==
@@ -49,6 +49,7 @@ echo $et->profile_image_url();//URL to your twitter profile picture.<br />
 
 Note: No methods will return any data with html markup. <br />
 
+<a href="http://www.yourtechieguy.com/projects/easytwitter">Updated installation instructions can be found here.</a>
 
 == Upgrade Notice == 
 N/A
@@ -91,6 +92,10 @@ Tested with 3.4.2 wordpress.
 Tested with 3.5.x wordpress.
 Fix documentation.
 Updated documentation.
+
+= 1.8 =
+Tested with 3.5.1 wordpress.
+Fix minor code.
 
 == A brief Markdown Example ==
 
