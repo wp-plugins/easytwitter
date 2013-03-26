@@ -1,10 +1,10 @@
 === EasyTwitter ===
-Contributors: jimburnettva,yourtechieguyblog
-Donate link: http://www.yourtechieguy.com
+Contributors: jimburnettva,jimmyburnett
+Donate link: http://www.jimmyburnett.com
 Tags: twitter,development,programming,php,twitter followers
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.8
+Stable tag: 1.9
 
 EasyTwitter provides an easy way to add twitter followers count and other twitter info to your wordpress template.
 
@@ -96,6 +96,9 @@ Updated documentation.
 = 1.8 =
 Tested with 3.5.1 wordpress.
 Fix minor code.
+
+= 1.9 =
+Miner change.
 
 == A brief Markdown Example ==
 

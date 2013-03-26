@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: EasyTwitter
-Plugin URI: http://www.yourtechieguy.com/projects/easytwitter 
-Description: Provides a super easy way to add twitter information to your blog. No javascript needed. I needed a way to add twitter info to my wordpress templates so I wrote this. This is an API and not meant to be used as a stand alone plugin. Developed by: <a href="http://www.yourtechieguy.com">Your Techie Guy</a>
-Version: 1.8
-Author: Your Techie Guy 
-Author URI: http://www.yourtechieguy.com
+Plugin URI: http://www.jimmyburnett.com/projects/easytwitter 
+Description: Provides a super easy way to add twitter information to your blog. No javascript needed. I needed a way to add twitter info to my wordpress templates so I wrote this. This is an API and not meant to be used as a stand alone plugin. Developed by: <a href="http://www.jimmyburnett.com">Jimmy Burnett</a>
+Version: 1.9
+Author: Jimmy Burnett 
+Author URI: http://www.jimmyburnett.com
 License: GPL2
 */
 
