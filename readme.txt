@@ -25,7 +25,7 @@ EasyTwitter provides an easy way to add your twitter information to your wordpre
 * Show Twitter profile url.<br />
 * Show retweet count!. <br />
 
-Developed by: The <a href="http://www.yourtechieguy.com/" title="Your Techei Guy">Your Techie Guy</a>.
+Developed by: The <a href="http://www.jimmyburnett.com/" title="Jimmy Burnett">Jimmy Burnett</a>.
 
 
 == Installation ==
@@ -49,7 +49,7 @@ echo $et->profile_image_url();//URL to your twitter profile picture.<br />
 
 Note: No methods will return any data with html markup. <br />
 
-<a href="http://www.yourtechieguy.com/projects/easytwitter">Updated installation instructions can be found here.</a>
+<a href="http://www.jimmyburnett.com/projects/easytwitter">Updated installation instructions can be found here.</a>
 
 == Upgrade Notice == 
 N/A
