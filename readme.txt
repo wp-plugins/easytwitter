@@ -1,10 +1,10 @@
 === EasyTwitter ===
 Contributors: jimburnettva,jimmyburnett
-Donate link: http://www.jimmyburnett.com
+Donate link: http://www.techburnett.com/donate
 Tags: twitter,development,programming,php,twitter followers
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.9
+Stable tag: 1.9.1
 
 EasyTwitter provides an easy way to add twitter followers count and other twitter info to your wordpress template.
 
@@ -25,7 +25,7 @@ EasyTwitter provides an easy way to add your twitter information to your wordpre
 * Show Twitter profile url.<br />
 * Show retweet count!. <br />
 
-Developed by: The <a href="http://www.jimmyburnett.com/" title="Jimmy Burnett">Jimmy Burnett</a>.
+Developed by: The <a href="http://www.techburnett.com/" title="Jim Burnett">Jim Burnett</a>.
 
 
 == Installation ==
@@ -49,7 +49,6 @@ echo $et->profile_image_url();//URL to your twitter profile picture.<br />
 
 Note: No methods will return any data with html markup. <br />
 
-<a href="http://www.jimmyburnett.com/projects/easytwitter">Updated installation instructions can be found here.</a>
 
 == Upgrade Notice == 
 N/A
@@ -99,6 +98,9 @@ Fix minor code.
 
 = 1.9 =
 Miner change.
+
+= 1.9.1 =
+Documentation change.
 
 == A brief Markdown Example ==
 
